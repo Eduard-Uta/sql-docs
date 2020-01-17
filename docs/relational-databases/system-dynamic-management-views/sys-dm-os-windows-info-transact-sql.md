@@ -24,7 +24,7 @@ ms.author: sstein
 
   Returns one row that displays Windows operating system version information.  
   
-  Only applies to SQL Server running on Windows. To see similar informaton for SQL Server running on a non-Windows host, such as Linux, use [sys.dm_os_host_info &#40;Transact-SQL&#41;](~/relational-databases/system-dynamic-management-views/sys-dm-os-host-info-transact-sql.md). 
+  Only applies to SQL Server running on Windows. To see similar information for SQL Server running on a non-Windows host, such as Linux, use [sys.dm_os_host_info &#40;Transact-SQL&#41;](~/relational-databases/system-dynamic-management-views/sys-dm-os-host-info-transact-sql.md). 
   
 |Column name|Data type|Description|  
 |-----------------|---------------|-----------------|  
